@@ -9,12 +9,12 @@ A fully automated monthly habit tracking system built in Microsoft Excel. Track 
 ## 🖼️ Preview
 
 ### Tracker Sheet
-(path/to/<img width="1082" height="511" alt="Screenshot 2026-03-22 121337" src="https://github.com/user-attachments/assets/28b9ecc7-9d02-4983-bdd2-6662678a36b7" />
-)
+
+<img width="1752" height="860" alt="Screenshot 2026-03-22 121728" src="https://github.com/user-attachments/assets/4d6e0eb5-5764-4ca6-b2cd-167497634a89" />
 
 
 ### Monthly Dashboard
-
+<img width="1082" height="511" alt="Screenshot 2026-03-22 121337" src="https://github.com/user-attachments/assets/b1f0f229-6e72-44b8-88c1-e79739d421ca" />
 
 ---
 
